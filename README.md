@@ -3,7 +3,7 @@
 A real-time 3D first-person shooter built using the [Ursina Engine](https://www.ursinaengine.org/). Fight off waves of enemies with limited ammo, a radar system, and a reload mechanism. Includes both regular and boss enemies, a scoring system, and a game over screen.
 
 ## 📸 Screenshot
-*(Add screenshots here if possible)*
+![Gameplay](images/screenshot1.png)
 
 ---
 
